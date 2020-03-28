@@ -10,6 +10,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webCuaHangMyPham.Data", "webCuaHangMyPham.Data\webCuaHangMyPham.Data.csproj", "{3D5EA840-9BE9-415A-AB9F-F95942E93538}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webCuaHangMyPham.Application", "webCuaHangMyPham.Application\webCuaHangMyPham.Application.csproj", "{A2BC4256-2CC9-4839-9BE5-E94AD9B6050A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +24,14 @@ Global
 		{CA94391B-DF73-4953-9297-DF59DBBC74D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA94391B-DF73-4953-9297-DF59DBBC74D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA94391B-DF73-4953-9297-DF59DBBC74D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D5EA840-9BE9-415A-AB9F-F95942E93538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D5EA840-9BE9-415A-AB9F-F95942E93538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D5EA840-9BE9-415A-AB9F-F95942E93538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D5EA840-9BE9-415A-AB9F-F95942E93538}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2BC4256-2CC9-4839-9BE5-E94AD9B6050A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2BC4256-2CC9-4839-9BE5-E94AD9B6050A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2BC4256-2CC9-4839-9BE5-E94AD9B6050A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2BC4256-2CC9-4839-9BE5-E94AD9B6050A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
